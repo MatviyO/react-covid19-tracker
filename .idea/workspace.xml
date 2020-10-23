@@ -21,8 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="e9a15a75-4156-40b1-b160-c2424ea3705b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Cards/Cards.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cards/Cards.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Cards/Cards.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cards/Cards.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +82,7 @@
       <updated>1603378815451</updated>
       <workItem from="1603378816656" duration="677000" />
       <workItem from="1603433720600" duration="45000" />
-      <workItem from="1603433813513" duration="11472000" />
+      <workItem from="1603433813513" duration="14455000" />
     </task>
     <servers />
   </component>
@@ -105,21 +108,21 @@
       <screen x="-1920" y="40" width="1920" height="1040" />
     </state>
     <state x="-1217" y="362" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1920.1040/-1920.40.1920.1040@-1920.40.1920.1040" timestamp="1603442442570" />
-    <state width="1860" height="279" key="GridCell.Tab.0.bottom" timestamp="1603443438202">
+    <state width="1860" height="279" key="GridCell.Tab.0.bottom" timestamp="1603462131002">
       <screen x="-1920" y="40" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.bottom/0.40.1920.1040/-1920.40.1920.1040@-1920.40.1920.1040" timestamp="1603443438202" />
-    <state width="1860" height="279" key="GridCell.Tab.0.center" timestamp="1603443438201">
+    <state width="1860" height="279" key="GridCell.Tab.0.bottom/0.40.1920.1040/-1920.40.1920.1040@-1920.40.1920.1040" timestamp="1603462131002" />
+    <state width="1860" height="279" key="GridCell.Tab.0.center" timestamp="1603462131002">
       <screen x="-1920" y="40" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.center/0.40.1920.1040/-1920.40.1920.1040@-1920.40.1920.1040" timestamp="1603443438201" />
-    <state width="1860" height="279" key="GridCell.Tab.0.left" timestamp="1603443438201">
+    <state width="1860" height="279" key="GridCell.Tab.0.center/0.40.1920.1040/-1920.40.1920.1040@-1920.40.1920.1040" timestamp="1603462131002" />
+    <state width="1860" height="279" key="GridCell.Tab.0.left" timestamp="1603462131002">
       <screen x="-1920" y="40" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.left/0.40.1920.1040/-1920.40.1920.1040@-1920.40.1920.1040" timestamp="1603443438201" />
-    <state width="1860" height="279" key="GridCell.Tab.0.right" timestamp="1603443438202">
+    <state width="1860" height="279" key="GridCell.Tab.0.left/0.40.1920.1040/-1920.40.1920.1040@-1920.40.1920.1040" timestamp="1603462131002" />
+    <state width="1860" height="279" key="GridCell.Tab.0.right" timestamp="1603462131002">
       <screen x="-1920" y="40" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.right/0.40.1920.1040/-1920.40.1920.1040@-1920.40.1920.1040" timestamp="1603443438202" />
+    <state width="1860" height="279" key="GridCell.Tab.0.right/0.40.1920.1040/-1920.40.1920.1040@-1920.40.1920.1040" timestamp="1603462131002" />
   </component>
 </project>
