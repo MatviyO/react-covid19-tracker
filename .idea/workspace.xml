@@ -20,16 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9a15a75-4156-40b1-b160-c2424ea3705b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/App.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Cards/Cards.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Cards/Cards.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Chart/Chart.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Chart/Chart.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CountryPicker/CountryPicker.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CountryPicker/CountryPicker.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +79,7 @@
       <updated>1603378815451</updated>
       <workItem from="1603378816656" duration="677000" />
       <workItem from="1603433720600" duration="45000" />
-      <workItem from="1603433813513" duration="7421000" />
+      <workItem from="1603433813513" duration="11472000" />
     </task>
     <servers />
   </component>
