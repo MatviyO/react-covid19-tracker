@@ -7,11 +7,12 @@ class Maps extends React.Component {
         country: ''
     }
 
+
     render() {
 
         return (
             <div >
-                <h3 style={{color:"black"}}>Maps</h3>
+
             </div>
         )
     }
